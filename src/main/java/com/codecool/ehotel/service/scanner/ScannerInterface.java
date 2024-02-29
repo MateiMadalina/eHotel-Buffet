@@ -1,6 +1,6 @@
 package com.codecool.ehotel.service.scanner;
 
-public interface Scanner {
+public interface ScannerInterface {
     String getStringInput();
     int getIntInput();
 }

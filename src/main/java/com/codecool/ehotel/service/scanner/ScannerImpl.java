@@ -1,13 +1,17 @@
 package com.codecool.ehotel.service.scanner;
 
-public class ScannerImpl implements Scanner {
+import java.util.Scanner;
+
+public class ScannerImpl implements ScannerInterface {
+    private final static Scanner scanner = new Scanner(System.in);
+
+    @Override
     public String getStringInput() {
-        java.util.Scanner scanner = new java.util.Scanner(System.in);
         return scanner.nextLine();
     }
 
+    @Override
     public int getIntInput() {
-        java.util.Scanner scanner = new java.util.Scanner(System.in);
         return  scanner.nextInt();
     }
 }
