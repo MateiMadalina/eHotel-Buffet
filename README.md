@@ -10,10 +10,17 @@ When running the program in the console, the user will be prompted to enter the 
 ## Demo
 The application is run from the "EHotelBuffetApplication" file which contains the main class within it. After running the application, we will receive a welcome message followed by a prompt requesting input for a start date, end date and to choose a date from that interval.
 
-
+![1](https://github.com/MateiMadalina/eHotel-Buffet/assets/116349352/c0859206-8130-450f-81f1-c7a74a1a6fa5)
 
 After choosing the date, the breakfast simulation will begin.
 
+![2](https://github.com/MateiMadalina/eHotel-Buffet/assets/116349352/0721a884-2c7f-45c9-b0a0-49903f2ffbeb)
+
+![3](https://github.com/MateiMadalina/eHotel-Buffet/assets/116349352/05ffa3fe-5a24-492b-80c1-c3a5516c7411)
+
+![4](https://github.com/MateiMadalina/eHotel-Buffet/assets/116349352/62f66f03-1b9c-4b67-85cd-444cc9d46582)
+
+![5](https://github.com/MateiMadalina/eHotel-Buffet/assets/116349352/3f51da02-485b-4d7c-9e65-817208c59447)
 
 
 
